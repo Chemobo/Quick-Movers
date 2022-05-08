@@ -1,3 +1,7 @@
+body{
+    margin: 30px 30px 30px 30px;
+}
+
 /* style background*/
 .container{
     background-image: url("../assets/images/moving\ 1.png");
@@ -29,4 +33,9 @@ color: #FFAC12; background-color: black; border: 0px black;
 .heading2{
     color: white;
     font-size: xx-large;
+}
+.container2{
+    display: flex;
+    justify-content: space-between;
+
 }
