@@ -1,0 +1,15 @@
+/* style the nav bar*/
+body{
+    background-image: url("../assets/images/moving\ 1.png");
+    background-size: 100%;
+    background-repeat: no-repeat   
+}
+.navbar ul li{
+    list-style: none;
+    text-align: center;
+    display: flex;
+    float: left;
+    padding-right: 20px;
+} 
+   
+   
