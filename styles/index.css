@@ -39,3 +39,15 @@ color: #FFAC12; background-color: black; border: 0px black;
     justify-content: space-between;
 
 }
+#img2{
+    float: left;
+    height: 600px;
+    width: 600px;
+    position: relative;
+}
+.hustle{
+    position: relative;
+    left: 150px;
+    padding-right: 400px;
+    top: 150px;
+}
