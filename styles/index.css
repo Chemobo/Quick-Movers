@@ -47,8 +47,13 @@ color: yellow; background-color: black; border: 0px black;
 .container2{
     display: flex;
 
-
 }
+
+.container3 .imag1{
+    display: flex;
+   
+}
+
 #img2{  
     float: left;
     height: 600px;
