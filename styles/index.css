@@ -26,20 +26,27 @@ body{
 #B2{
 color: #FFAC12; background-color: black; border: 0px black;
 }
+
+.headings{
+    margin-left: 150px;
+    margin-top: 80px;
+}
 .heading1{
     color: #FFAC12;
     font-size: xx-large;
+    
 }
 .heading2{
     color: white;
-    font-size: xx-large;
+    font-size: larger;
+    
 }
 .container2{
     display: flex;
-    justify-content: space-between;
+
 
 }
-#img2{
+#img2{  
     float: left;
     height: 600px;
     width: 600px;
@@ -50,4 +57,10 @@ color: #FFAC12; background-color: black; border: 0px black;
     left: 150px;
     padding-right: 400px;
     top: 150px;
+}
+.line1{
+    border: 5px;
+    width: 150px;
+    height: 5px;
+    background-color: black;
 }
