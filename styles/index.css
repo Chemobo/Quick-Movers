@@ -21,19 +21,22 @@ body{
     display: flex;
 } 
 #B1{
-    background-color: #FFAC12; border: 0px #FFAC12;
+    background-color: yellow; border: 0px #FFAC12;
 }
 #B2{
-color: #FFAC12; background-color: black; border: 0px black;
+color: yellow; background-color: black; border: 0px black;
 }
 
 .headings{
-    margin-left: 150px;
+    margin-left: 90px;
     margin-top: 80px;
+    font-weight: 200;
+    font-size: xx-large;
+    width: max-content;
 }
 .heading1{
-    color: #FFAC12;
-    font-size: xx-large;
+    color: yellow;
+    
     
 }
 .heading2{
